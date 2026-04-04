@@ -36,7 +36,7 @@ HR_Project.pbix
 * Interactive Dashboard Design
 * Data Storytelling & Business Insights
 
-## 📌 Summary
+## Summary
 
 This portfolio reflects my ability to build complete business intelligence solutions using Power BI — from raw data to decision-ready dashboards.
 
