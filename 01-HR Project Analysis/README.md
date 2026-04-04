@@ -307,12 +307,6 @@ Based on the analytical framework embedded in this dashboard, the following stra
 
 ---
 
-## 🌐 Live Dashboard
-
-<iframe title="HR Project Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNTA4M2Y3MzQtNWMyYi00NGY1LTlkNjYtYzY0Yjk5ODgwNjQ0IiwidCI6ImY0ZTg5MTY4LTU4NGUtNGE3MS04MDAxLWE1OWRlMmQ1MThjYiJ9" frameborder="0" allowFullScreen="true"></iframe>
-
----
-
 ## 📈 Project Value
 
 This dashboard delivers measurable business value across four dimensions:
