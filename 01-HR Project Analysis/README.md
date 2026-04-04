@@ -1,6 +1,6 @@
 # HR Analytics Dashboard | Workforce Intelligence & Performance Optimization
 
-**🔗 Live Dashboard:** [View Interactive Report](https://app.powerbi.com/view?r=eyJrIjoiNTA4M2Y3MzQtNWMyYi00NGY1LTlkNjYtYzY0Yjk5ODgwNjQ0IiwidCI6ImY0ZTg5MTY4LTU4NGUtNGE3MS04MDAxLWE1OWRlMmQ1MThjYiJ9)
+**🔗 Live Dashboard:** [HR Project Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTA4M2Y3MzQtNWMyYi00NGY1LTlkNjYtYzY0Yjk5ODgwNjQ0IiwidCI6ImY0ZTg5MTY4LTU4NGUtNGE3MS04MDAxLWE1OWRlMmQ1MThjYiJ9)
 
 ---
 
