@@ -2,6 +2,8 @@
 
 **🔗 Live Dashboard:** [HR Project Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTA4M2Y3MzQtNWMyYi00NGY1LTlkNjYtYzY0Yjk5ODgwNjQ0IiwidCI6ImY0ZTg5MTY4LTU4NGUtNGE3MS04MDAxLWE1OWRlMmQ1MThjYiJ9)
 
+![HR Project Dashboard](https://github.com/user-attachments/assets/ede32b79-f100-4728-9beb-ffefc54f8705)
+
 ---
 
 ## 👤 Author
