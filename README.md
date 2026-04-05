@@ -25,8 +25,7 @@ Power BI, DAX, Data Modeling, Power Query, Data Visualization
 **Purpose:**
 Demonstrates the ability to analyze HR data and support data-driven workforce decisions.
 
-**Files:**
-HR_Project.pbix
+**🔗 Live Dashboard:** [HR Project Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTA4M2Y3MzQtNWMyYi00NGY1LTlkNjYtYzY0Yjk5ODgwNjQ0IiwidCI6ImY0ZTg5MTY4LTU4NGUtNGE3MS04MDAxLWE1OWRlMmQ1MThjYiJ9)
 
 ## 🛠 Skills Demonstrated
 
