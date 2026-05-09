@@ -138,15 +138,10 @@ All transformations were performed in **Power Query** prior to model load:
 The model follows a **Snowflake Schema** - a central fact table (`OrdersDetails`) connected to dimension tables, with one extended chain through `Product → Categories`.
 
 ### Schema Diagram
+---
+<img width="1550" height="706" alt="Schema Diagram" src="https://github.com/user-attachments/assets/8943bf50-530e-4557-a050-b17c1f4c00da" />
 
-```
-Categories (1) ──────────────────────── (Many) Product
-                                                  │
-                                              (One)│
-                                                   │
-Customers (1) ──── (Many) Orders (One) ──── (Many) OrdersDetails
-```
-
+---
 ### Relationships
 
 | From Table | From Column | To Table | To Column | Cardinality | Filter Direction |
